@@ -2,6 +2,6 @@ This script allows users to interact with OpenAI's GPT-3 language model through 
 
 This script uses the openai library to interact with the GPT-3 API and generate responses, and it provides a simple and intuitive interface for users to chat with the GPT-3 model. Whether you're interested in testing the capabilities of the GPT-3 model or just looking for a fun conversation, this script is a great starting point.
 
-#Install
-$ pip install -r requirements.txt
-$ python ChatGPT.py
+#Install<br>
+~$ pip install -r requirements.txt <br>
+~$ python ChatGPT.py
